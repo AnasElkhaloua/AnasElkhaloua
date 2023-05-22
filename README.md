@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi, I am Anas a humble Digital craftsman with a big appetite for knowledge
 
+![programming-computer-frog](https://github.com/AnasElkhaloua/AnasElkhaloua/assets/58464449/987d39fd-371a-4009-ae48-ffd5abd950d7)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Jigsaw#2696) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://https://facebook.com/JigsO.ow/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anaselkhaloua) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@elkhaloua_anas) 
