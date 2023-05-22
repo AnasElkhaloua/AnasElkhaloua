@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I am Anas a humble Digital craftsman with a big appetite for knowledge
 
-<div class="tenor-gif-embed" data-postid="25385487" data-share-method="host" data-aspect-ratio="1.12281" data-width="100%"><a href="https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487">Programming Computer Frog GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Jigsaw#2696) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://https://facebook.com/JigsO.ow/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anaselkhaloua) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@elkhaloua_anas) 
 
