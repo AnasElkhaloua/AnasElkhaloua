@@ -24,7 +24,7 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/AnasElkhaloua) 
 
-<center>
-![programming-computer-frog](https://github.com/AnasElkhaloua/AnasElkhaloua/assets/58464449/987d39fd-371a-4009-ae48-ffd5abd950d7)</center>
+
+![programming-computer-frog](https://github.com/AnasElkhaloua/AnasElkhaloua/assets/58464449/987d39fd-371a-4009-ae48-ffd5abd950d7)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
