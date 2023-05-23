@@ -22,8 +22,12 @@
 [![](https://visitcount.itsvg.in/api?id=AnasElkhaloua&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/AnasElkhaloua) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/AnasElkhaloua) <br/>
 
 
+<div  width="100%"> <div align=center> <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=29eb0c&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+...!" alt="Headline" /> </div> </div>
+
+<img src="img.gif" align="center" width="100%">
+</div>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
