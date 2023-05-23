@@ -27,7 +27,7 @@
 
 <div  width="100%"> <div align=center> <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=29eb0c&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+...!" alt="Headline" /> </div> </div>
 
-<img src="[img.gif](https://github.com/Usamaboudakhair/Usamaboudakhair/blob/master/img.gif)" align="center" width="100%">
+<img src="https://github.com/Usamaboudakhair/Usamaboudakhair/blob/master/img.gif" align="center" width="100%">
 </div>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
