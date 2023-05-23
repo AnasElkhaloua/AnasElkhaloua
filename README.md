@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I am Anas a humble Digital craftsman with a big appetite for knowledge
+
+
+<div align=center> <div align=center> <img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&center=true&vCenter=true&width=650&weight=700&lines=Hi+there+👋+I'm+Anas+El khaloua;Software+Engineer+Student;%26+Web+Devlopper" alt="Headline" /> </div> </div>
+
+<p align="center" ><img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /></p>
 
 ![programming-computer-frog](https://github.com/AnasElkhaloua/AnasElkhaloua/assets/58464449/987d39fd-371a-4009-ae48-ffd5abd950d7)
 
